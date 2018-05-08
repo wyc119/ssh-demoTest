@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ssh-dao/ssh-dao.iml" filepath="$PROJECT_DIR$/ssh-dao/ssh-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssh-demoTest.iml" filepath="$PROJECT_DIR$/ssh-demoTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssh-model/ssh-model.iml" filepath="$PROJECT_DIR$/ssh-model/ssh-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssh-service/ssh-service.iml" filepath="$PROJECT_DIR$/ssh-service/ssh-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssh-webapp/ssh-webapp.iml" filepath="$PROJECT_DIR$/ssh-webapp/ssh-webapp.iml" />
+    </modules>
+  </component>
+</project>
